@@ -1,2 +1,2 @@
 # RafuBot
-A all rounder personal AI
+An all rounder telegram personal AI
